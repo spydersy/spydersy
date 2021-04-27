@@ -13,7 +13,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=spydersy&count_private=true&show_icons=true&theme=dark)](https://github.com/spydersy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parismart&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/parismart/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spydersy&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/spydersy)
 
 # 1337-cursus projects :
 
