@@ -1,4 +1,3 @@
--->
 
 - 🔭 Working on Philosophers project
 - 🌱 Learning in [42Madrid](https://www.42madrid.com)
@@ -9,7 +8,7 @@
 - 💬 Ask me about Science [Instagram](https://www.instagram.com/parisdetroya42/)
 - 📫 How to reach me: parismrt@gmail.com
 
-[![parmarti 42 stats](https://badge42.herokuapp.com/api/stats/parmarti)](https://github.com/JaeSeoKim/badge42)
+[![abelarif 42 stats](https://badge42.herokuapp.com/api/stats/abelarif)](https://github.com/JaeSeoKim/badge42)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=parismart&count_private=true&show_icons=true&theme=dark)](https://github.com/parismart/github-readme-stats)
 
