@@ -19,19 +19,18 @@
 
 |   Projects	|  Score	| Type | Description |
 |:---	|:---:	| :--- |---|
-| [libft](https://github.com/spydersy/libft) | 100 | C project |--------------------
-| [get_next_Line](https://github.com/spydersy/get_next_line)	| 100 | C project |--------------------
-| [ft_printf](https://github.com/spydersy/ft_printf)	| 100 | C project |--------------------
-| [netwhat](https://github.com/spydersy/netwhat) | 100 | Network |--------------------
-| exam_rank_02 | 100 | Exam |--------------------
-| [ft_server](https://github.com/spydersy/ft_server) | 100 | Docker |--------------------
-| [cub3D](https://github.com/spydersy/cub3d) | 100 | C project |--------------------
-| [libasm](https://github.com/spydersy/libasm) | 0 | Assambler |--------------------
-| [ft_services](https://github.com/spydersy/ft_services) | 0 | Kubernetes |--------------------
-| [minishell](https://github.com/spydersy/minishell) | 0 | C project |--------------------
-| [minishell](https://github.com/spydersy/minishell) | 0 | C project |--------------------|
-|exam_rank_03|0|Exam|--------------------|
-
+| [libft](https://github.com/spydersy/libft) | <div style="color: green;"> 100 </div> | C project |--------------------
+| [get_next_Line](https://github.com/spydersy/get_next_line)	| <div style="color: green;"> 100 </div>  | C project |--------------------
+| [ft_printf](https://github.com/spydersy/ft_printf)	| <div style="color: green;"> 100 </div> | C project |--------------------
+| [netwhat](https://github.com/spydersy/netwhat) | <div style="color: green;"> 100 </div> | Network |--------------------
+| exam_rank_02 | <div style="color: green;"> 100 </div> | Exam |--------------------
+| [ft_server](https://github.com/spydersy/ft_server) | <div style="color: green;"> 100 </div> | Docker |--------------------
+| [cub3D](https://github.com/spydersy/cub3d) | <div style="color: green;"> 100 </div> | C project |--------------------
+| [libasm](https://github.com/spydersy/libasm) | <div style="color: orange;"> In progress</div> | Assambler |--------------------
+| [ft_services](https://github.com/spydersy/ft_services) | <div style="color: orange;"> In progress</div> | Kubernetes |--------------------
+| [minishell](https://github.com/spydersy/minishell) | <div style="color: orange;"> In progress</div> | C project |--------------------
+| [minishell](https://github.com/spydersy/minishell) | <div style="color: orange;"> In progress</div> | C project |--------------------|
+|exam_rank_03|<div style="color: red;"> Unavailable</div>|Exam|--------------------|
 
 
 <!--
