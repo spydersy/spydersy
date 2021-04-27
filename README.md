@@ -11,7 +11,7 @@
 [![abelarif 1337 stats](https://badge42.herokuapp.com/api/stats/abelarif)](https://github.com/JaeSeoKim/badge42)
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=parismart&count_private=true&show_icons=true&theme=dark)](https://github.com/parismart/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=spydersy&count_private=true&show_icons=true&theme=dark)](https://github.com/spydersy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parismart&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/parismart/github-readme-stats)
 
