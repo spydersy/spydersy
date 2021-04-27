@@ -5,7 +5,7 @@
 - 💻 Expertises with C language and Unix system
 - 👨‍💻 Software engineer student
 - 🏠 Living in [Casablanca](https://en.wikipedia.org/wiki/Casablanca)
-- 💬 I'm present here [Instagram](https://www.instagram.com/spydrr__/)
+- 💬 I'm present here [LinkedIn](https://www.linkedin.com/in/achraf-belarif/), [Instagram](https://www.instagram.com/spydrr__/), [Facebook](https://www.facebook.com/spydersy/), [Twitter](https://twitter.com/achraf_belarif)
 - 📫 How to reach me: parismrt@gmail.com
 
 [![abelarif 1337 stats](https://badge42.herokuapp.com/api/stats/abelarif)](https://github.com/JaeSeoKim/badge42)
