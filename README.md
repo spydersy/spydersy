@@ -33,7 +33,7 @@
 |exam_rank_03|<div style="color: red;"> Unavailable</div>|Exam|--------------------|
 
 
-<!--
+
 ### Hi there 👋
 
 **spydersy/spydersy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
