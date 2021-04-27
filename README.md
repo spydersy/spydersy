@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Machine Learning
 - 💻 Expertises with C language and Unix system
 - 👨‍💻 Junior Software Dev 
-- 🏠 Living in Valencia
+- 🏠 Living in [Casablanca](https://en.wikipedia.org/wiki/Casablanca)
 - 💬 Ask me about Science [Instagram](https://www.instagram.com/parisdetroya42/)
 - 📫 How to reach me: parismrt@gmail.com
 
