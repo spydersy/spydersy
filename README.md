@@ -3,7 +3,7 @@
 - 🌱 Learning in [1337 Benguerir (42 Network)](https://1337.ma/en/)
 - 👯 I’m looking for a useful resources to learn Unix System
 - 💻 Expertises with C language and Unix system
-- 👨‍💻 Junior Software Dev 
+- 👨‍💻 Software engineer student
 - 🏠 Living in [Casablanca](https://en.wikipedia.org/wiki/Casablanca)
 - 💬 Ask me about Science [Instagram](https://www.instagram.com/parisdetroya42/)
 - 📫 How to reach me: parismrt@gmail.com
