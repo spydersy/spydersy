@@ -14,29 +14,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parismart&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/parismart/github-readme-stats)
 
-# 42Madrid
+# 1337-cursus projects :
 
-|   Projects	|  Score	| Type |
-|---	|---	|--- |
-| Libft | 114 | C project |
-| Get_Next_Line	| 115 | C project |
-| Printf	| 100 | C project |
-| NetWhat | 100 | Network |
-| Exam_Rank_02 | 100 | Exam |
-| ft_server | 100 | Docker |
-| Cub3D | 103 | Raycasting - C project |
-| Exam_Rank_03 | 100 | Exam |
-| libasm | 100 | Assambler |
-| ft_services | 100 | Kubernetes |
-| Minishell | 100 | C project |
-| Exam_Rank_04 | --- | Exam |
-| Philosophers |  | C project |
-| Piscine C++ |  | C++ |
-| Exam_Rank_05 |  | Exam |
-| ft_container | | C++ |
-| web_server | | C++ |
-| Exam_Rank_06 |  | Exam |
-| ft_transcendence | | Final project |
+|   Projects	|  Score	| Type | Description |
+|---	|---	|--- |---|
+| [libft](https://github.com/spydersy/libft) | 100 | C project |
+| [get_next_Line](https://github.com/spydersy/get_next_line)	| 100 | C project |
+| [ft_printf](https://github.com/spydersy/ft_printf)	| 100 | C project |
+| [netwhat](https://github.com/spydersy/netwhat) | 100 | Network |
+| exam_rank_02 | 100 | Exam |
+| [ft_server](https://github.com/spydersy/ft_server) | 100 | Docker |
+| [cub3D](https://github.com/spydersy/cub3d) | 100 | Raycasting - C project |
+| [libasm](https://github.com/spydersy/libasm) | 0 | Assambler |
+| [ft_services](https://github.com/spydersy/ft_services) | 0 | Kubernetes |
+| [minishell](https://github.com/spydersy/minishell) | 0 | C project |
 
 
 
