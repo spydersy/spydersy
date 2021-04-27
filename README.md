@@ -18,7 +18,7 @@
 # 1337-cursus projects :
 
 |   Projects	|  Score	| Type | Description |
-|---	|---	|--- |---|
+|:---	|:---:	| :--- |---|
 | [libft](https://github.com/spydersy/libft) | 100 | C project |--------------------
 | [get_next_Line](https://github.com/spydersy/get_next_line)	| 100 | C project |--------------------
 | [ft_printf](https://github.com/spydersy/ft_printf)	| 100 | C project |--------------------
