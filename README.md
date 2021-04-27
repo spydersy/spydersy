@@ -1,7 +1,7 @@
 
 - 🔭 Working on [minishell](https://github.com/spydersy/minishell)
 - 🌱 Learning in [1337 Benguerir (42 Network)](https://1337.ma/en/)
-- 👯 I’m looking to collaborate on Machine Learning
+- 👯 I’m looking for a useful resources to learn UNIX System
 - 💻 Expertises with C language and Unix system
 - 👨‍💻 Junior Software Dev 
 - 🏠 Living in [Casablanca](https://en.wikipedia.org/wiki/Casablanca)
