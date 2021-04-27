@@ -1,6 +1,6 @@
 
 - 🔭 Working on Philosophers project
-- 🌱 Learning in [42Madrid](https://www.42madrid.com)
+- 🌱 Learning in [1337 Benguerir (42 Network)](https://1337.ma/en/)
 - 👯 I’m looking to collaborate on Machine Learning
 - 💻 Expertises with C language and Unix system
 - 👨‍💻 Junior Software Dev 
