@@ -1,5 +1,5 @@
 
-- 🔭 Working on Philosophers project
+- 🔭 Working on [minishell](https://github.com/spydersy/minishell)
 - 🌱 Learning in [1337 Benguerir (42 Network)](https://1337.ma/en/)
 - 👯 I’m looking to collaborate on Machine Learning
 - 💻 Expertises with C language and Unix system
