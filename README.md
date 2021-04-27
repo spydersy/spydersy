@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spydersy&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/spydersy)
 
-# 1337-cursus projects :
+# 1337-cursus Projects :
 
 |   Projects	|  Score	| Type | Description |
 |:---	|:---:	| :--- |---|
