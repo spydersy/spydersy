@@ -26,9 +26,9 @@
 | exam_rank_02 | <div style="color: green;"> 100 </div> | Exam |--------------------
 | [ft_server](https://github.com/spydersy/ft_server) | <div style="color: green;"> 100 </div> | Docker |--------------------
 | [cub3D](https://github.com/spydersy/cub3d) | <div style="color: green;"> 100 </div> | C project |--------------------
-| [libasm](https://github.com/spydersy/libasm) | <div style="color: orange;"> In progress</div> | Assambler |--------------------
-| [ft_services](https://github.com/spydersy/ft_services) | <div style="color: orange;"> In progress</div> | Kubernetes |--------------------
-| [minishell](https://github.com/spydersy/minishell) | <div style="color: orange;"> In progress</div> | C project |--------------------
+| [libasm](https://github.com/spydersy/libasm) | <div style="color: orange;"> 100</div> | Assambler |--------------------
+| [ft_services](https://github.com/spydersy/ft_services) | <div style="color: orange;"> 100 </div> | Kubernetes |--------------------
+| [pipex](https://github.com/spydersy/pipex) | <div style="color: orange;"> 100</div> | C project |--------------------
 | [minishell](https://github.com/spydersy/minishell) | <div style="color: orange;"> In progress</div> | C project |--------------------|
 |exam_rank_03|<div style="color: red;"> Unavailable</div>|Exam|--------------------|
 
