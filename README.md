@@ -31,7 +31,8 @@
 | [pipex](https://github.com/spydersy/pipex) | <div style="color: orange;"> 100</div> | C project |--------------------
 | [minishell](https://github.com/spydersy/minishell) | <div style="color: orange;"> In progress</div> | C project |--------------------|
 | [push_swap](https://github.com/spydersy/push_swap) | <div style="color: orange;">Finished</div> | C project |--------------------|
-| [philosophers](https://github.com/spydersy/philosophers) | <div style="color: orange;"> In progress</div> | C project |--------------------|
+| [philosophers](https://github.com/spydersy/philosophers) | <div style="color: orange;"> 100</div> | C project |--------------------|
+| [CPP](https://github.com/spydersy/cpp) | <div style="color: green;"> 100 </div> | C project |--------------------|
 |exam_rank_03|<div style="color: red;"> Unavailable</div>|Exam|--------------------|
 
 
