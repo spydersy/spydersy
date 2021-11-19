@@ -29,11 +29,13 @@
 | [libasm](https://github.com/spydersy/libasm) | <div style="color: orange;"> 100</div> | Assambler |--------------------
 | [ft_services](https://github.com/spydersy/ft_services) | <div style="color: orange;"> 100 </div> | Kubernetes |--------------------
 | [pipex](https://github.com/spydersy/pipex) | <div style="color: orange;"> 100</div> | C project |--------------------
-| [minishell](https://github.com/spydersy/minishell) | <div style="color: orange;"> In progress</div> | C project |--------------------|
-| [push_swap](https://github.com/spydersy/push_swap) | <div style="color: orange;">Finished</div> | C project |--------------------|
+| [minishell](https://github.com/spydersy/minishell) | <div style="color: orange;"> 100 </div> | C project |--------------------|
+| [push_swap](https://github.com/spydersy/push_swap) | <div style="color: orange;"> 84 </div> | C project |--------------------|
 | [philosophers](https://github.com/spydersy/philosophers) | <div style="color: orange;"> 100</div> | C project |--------------------|
-| [CPP](https://github.com/spydersy/cpp) | <div style="color: green;"> 100 </div> | C project |--------------------|
-|exam_rank_03|<div style="color: red;"> Unavailable</div>|Exam|--------------------|
+| [CPP](https://github.com/spydersy/cpp) | <div style="color: green;"> 100 </div> | C++ project |--------------------|
+|exam_rank_03|<div style="color: red;"> 100 </div>|Exam|--------------------|
+| [ft_containers](https://github.com/spydersy/42Cursus-ft_containers) | <div style="color: green;"> In Progress ... </div> | C++ project |--------------------|
+| [webserv](https://github.com/spydersy/42Cursus-webserv) | <div style="color: green;"> In Progress ... </div> | C++ project |--------------------|
 
 
 
