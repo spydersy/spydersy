@@ -32,28 +32,8 @@
 | philosophers | <div style="color: orange;"> 100</div> | C project |This project is an introduction to Threads/Processes/Mutex.|
 | CPP | <div style="color: green;"> 100 </div> | C++ project |CPP-Pool Is an introdation to OOP world.|
 | ft_containers | <div style="color: green;"> In Progress </div> | C++ project |This project is an re-implement of C++ Containers.|
-| [webserv | <div style="color: green;"> In Progress </div> | C++ project |In this project I write my own HTTP server !|
+| webserv | <div style="color: green;"> In Progress </div> | C++ project |In this project I write my own HTTP server !|
 
-
-
-
-**spydersy/spydersy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spydersy&label=Profile%20views&color=0e75b6&style=flat-square" alt="spydersy" /> </p>
 
 
 
@@ -62,12 +42,4 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spydersy&label=Profile%20views&color=0e75b6&style=flat-square" alt="spydersy" /> </p>
