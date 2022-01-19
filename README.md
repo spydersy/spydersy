@@ -1,4 +1,5 @@
-
+### Hi there 👋
+- My name is Achraf, I'm a Software Engineering Student [@1337-Benguerir (42 Network)](https://1337.ma/en/)
 - 🔭 Working on [minishell](https://github.com/spydersy/minishell)
 - 🌱 Learning in [1337 Benguerir (42 Network)](https://1337.ma/en/)
 - 👯 I’m looking for a useful resources to learn Unix System
@@ -18,28 +19,24 @@
 # 1337-cursus Projects :
 
 |   Projects	|  Score	| Type | Description |
-|:---	|:---:	| :--- |---|
-| [libft](https://github.com/spydersy/libft) | <div style="color: green;"> 100 </div> | C project |--------------------
-| [get_next_Line](https://github.com/spydersy/get_next_line)	| <div style="color: green;"> 100 </div>  | C project |--------------------
-| [ft_printf](https://github.com/spydersy/ft_printf)	| <div style="color: green;"> 100 </div> | C project |--------------------
-| [netwhat](https://github.com/spydersy/netwhat) | <div style="color: green;"> 100 </div> | Network |--------------------
-| exam_rank_02 | <div style="color: green;"> 100 </div> | Exam |--------------------
-| [ft_server](https://github.com/spydersy/ft_server) | <div style="color: green;"> 100 </div> | Docker |--------------------
-| [cub3D](https://github.com/spydersy/cub3d) | <div style="color: green;"> 100 </div> | C project |--------------------
-| [libasm](https://github.com/spydersy/libasm) | <div style="color: orange;"> 100</div> | Assambler |--------------------
-| [ft_services](https://github.com/spydersy/ft_services) | <div style="color: orange;"> 100 </div> | Kubernetes |--------------------
-| [pipex](https://github.com/spydersy/pipex) | <div style="color: orange;"> 100</div> | C project |--------------------
-| [minishell](https://github.com/spydersy/minishell) | <div style="color: orange;"> 100 </div> | C project |--------------------|
-| [push_swap](https://github.com/spydersy/push_swap) | <div style="color: orange;"> 84 </div> | C project |--------------------|
-| [philosophers](https://github.com/spydersy/philosophers) | <div style="color: orange;"> 100</div> | C project |--------------------|
-| [CPP](https://github.com/spydersy/cpp) | <div style="color: green;"> 100 </div> | C++ project |--------------------|
-|exam_rank_03|<div style="color: red;"> 100 </div>|Exam|--------------------|
-| [ft_containers](https://github.com/spydersy/42Cursus-ft_containers) | <div style="color: green;"> In Progress ... </div> | C++ project |--------------------|
-| [webserv](https://github.com/spydersy/42Cursus-webserv) | <div style="color: green;"> In Progress ... </div> | C++ project |--------------------|
+|:---	|:---:	| :--- | :---: |
+| libft | <div style="color: green;"> 100 </div> | C project |This project is about coding a C library. It will contain a collection of functions that will be a useful tool.
+| get_next_Line	| <div style="color: green;"> 100 </div>  | C project |This project is about programming a function that returns a line read from a file descriptor.
+| ft_printf	| <div style="color: green;"> 100 </div> | C project |The goal of this project is to recode printf().
+| ft_server | <div style="color: green;"> 100 </div> | Docker |This is a System Administration subject. An introduction to Docker and  web servers configuration.
+| cub3D | <div style="color: green;"> 100 </div> | C project | The goal will be to make a dynamic view inside a maze(3DGame), in which you'll have to find your way.
+| libasm | <div style="color: orange;"> 100</div> | Assambler | The aim of this project is to get familiar with assembly language.
+| ft_services | <div style="color: orange;"> 100 </div> | Kubernetes |This project is an introduction to cluster management and deployment with Kubernetes. The goal is to  virtualize a network and do "clustering".
+| pipex | <div style="color: orange;"> 100</div> | C project |This project is the discovery in detail and by programming of the UNIX mechanism PIPE '\|'
+| minishell | <div style="color: orange;"> 100 </div> | C project |The objective of this project is to create a simple shell like BASH.|
+| push_swap | <div style="color: orange;"> 84 </div> | C project |Sorting algorithms project.|
+| philosophers | <div style="color: orange;"> 100</div> | C project |This project is an introduction to Threads/Processes/Mutex.|
+| CPP | <div style="color: green;"> 100 </div> | C++ project |CPP-Pool Is an introdation to OOP world.|
+| ft_containers | <div style="color: green;"> In Progress ... </div> | C++ project |This project is an re-implement of C++ Containers.|
+| [webserv | <div style="color: green;"> In Progress ... </div> | C++ project |In this project I write my own HTTP server !|
 
 
 
-### Hi there 👋
 
 **spydersy/spydersy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
