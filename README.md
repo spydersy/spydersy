@@ -1,22 +1,21 @@
-### Hi there 👋
-- My name is Achraf, I'm a Software Engineering Student [@1337-Benguerir (42 Network)](https://1337.ma/en/)
-- 🔭 Working on [minishell](https://github.com/spydersy/minishell)
-- 🌱 Learning in [1337 Benguerir (42 Network)](https://1337.ma/en/)
-- 👯 I’m looking for a useful resources to learn Unix System
-- 💻 Expertises with C language and Unix system
-- 👨‍💻 Software engineer student
-- 🏠 Living in [Casablanca](https://en.wikipedia.org/wiki/Casablanca)
-- 💬 I'm present here [LinkedIn](https://www.linkedin.com/in/achraf-belarif/), [Instagram](https://www.instagram.com/spydrr__/), [Facebook](https://www.facebook.com/spydersy/), [Twitter](https://twitter.com/achraf_belarif)
-- 📫 How to reach me: achrafbelarif@gmail.com
+<h1 align="center">Hi 👋, I'm ACHRAF</h1>
+
+- 👨‍💻 I'm a Software Engineering Student [@1337-Benguerir (42 Network)](https://1337.ma/en/).
+- 🔭 I’m currently working on [42Cursus-webserv](https://github.com/spydersy/42Cursus-webserv).
+- 🌱 I’m currently learning about HTTP Protocol.
+- 📄 Know about my experiences [belarif.me](https://belarif.me).
+- 🔍 Intersed in DevOps/SysAdmin.
+- 🏠 Living in [Casablanca](https://en.wikipedia.org/wiki/Casablanca).
+- 📫 How to reach me **achraf.belarif@aol.com**
 
 [![abelarif 1337 stats](https://badge42.herokuapp.com/api/stats/abelarif)](https://github.com/JaeSeoKim/badge42)
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=spydersy&count_private=true&show_icons=true&theme=dark)](https://github.com/spydersy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spydersy&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/spydersy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spydersy" alt="spydersy" /></a> </p>
 
-# 1337-cursus Projects :
+# 💻1337-cursus Projects :
 
 |   Projects	|  Score	| Type | Description |
 |:---	|:---:	| :--- | :---: |
@@ -43,7 +42,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -51,6 +49,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spydersy&label=Profile%20views&color=0e75b6&style=flat-square" alt="spydersy" /> </p>
+
+
+
+
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
 
 
 
