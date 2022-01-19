@@ -25,7 +25,7 @@
 | ft_printf	| <div style="color: green;"> 100 </div> | C project |The goal of this project is to recode printf().
 | ft_server | <div style="color: green;"> 100 </div> | Docker |This is a System Administration subject. An introduction to Docker and  web servers configuration.
 | cub3D | <div style="color: green;"> 100 </div> | C project | The goal will be to make a dynamic view inside a maze(3DGame), in which you'll have to find your way.
-| libasm | <div style="color: orange;"> 100</div> | Assambler | The aim of this project is to get familiar with assembly language.
+| libasm | <div style="color: orange;"> 100</div> | Assembly | The aim of this project is to get familiar with assembly language.
 | ft_services | <div style="color: orange;"> 100 </div> | Kubernetes |This project is an introduction to cluster management and deployment with Kubernetes. The goal is to  virtualize a network and do "clustering".
 | pipex | <div style="color: orange;"> 100</div> | C project |This project is the discovery in detail and by programming of the UNIX mechanism PIPE '\|'
 | minishell | <div style="color: orange;"> 100 </div> | C project |The objective of this project is to create a simple shell like BASH.|
