@@ -8,7 +8,7 @@
 - 🏠 Living in [Casablanca](https://en.wikipedia.org/wiki/Casablanca).
 - 📫 How to reach me **achraf.belarif@aol.com**
 
-[![abelarif 1337 stats](https://badge42.herokuapp.com/api/stats/abelarif)](https://github.com/JaeSeoKim/badge42)
+<img src="https://badge.mediaplus.ma/kettlebells/abelarif" alt="abelarif's 42 stats" />
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=spydersy&count_private=true&show_icons=true&theme=dark)](https://github.com/spydersy)
