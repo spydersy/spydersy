@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>, I'm Achraf</h1>
+
 ---
+
 ### :technologist: About me 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a student at  [1337-Benguerir](https://1337.ma/en/) [(42 Network)](https://42.fr/en/network-42/) I am looking for an internship in the DevOps field. I've been using a variety of programming languages and technologies, including C/C++, ShellScript, TypeScript, GIT, Kubernetes, NestJS, PostgreSQL, Docker, and Docker-compose ...
