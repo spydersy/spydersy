@@ -12,6 +12,9 @@
 - 🏠 Living in [casablanca](https://en.wikipedia.org/wiki/Casablanca) 🇲🇦
 - 📫 How to reach me **achraf.belarif@aol.com**
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spydersy&label=Profile%20views%20since%20Aug%2029,%202022&color=0e75b6&style=flat-square" alt="spydersy" /> </p>
+
 ---
 
 ### :octocat: Github Profile Stats
@@ -27,21 +30,20 @@
 
 | Projects          | Description                                                                                                                        |
 | :---              | :---                                                                                                                               |
-| [libft            ](https://google.com) | This project is about coding a C library. It will contain a collection of functions that will be a useful tool.                    |
-| [get_next_Line    ](https://google.com) | This project is about programming a function that returns a line read from a file descriptor.                                      |
-| [ft_printf        ](https://google.com) | The goal of this project is to recode printf().                                                                                    |
-| [ft_server        ](https://google.com) | This is a System Administration subject. An introduction to Docker and  web servers configuration.                                 |
+| [libft            ](https://github.com/spydersy/libft) | This project is about coding a C library. It will contain a collection of functions that will be a useful tool.                    |
+| [get_next_Line    ](https://github.com/spydersy/get_next_line) | This project is about programming a function that returns a line read from a file descriptor.                                      |
+| [ft_printf        ](https://github.com/spydersy/ft_printf) | The goal of this project is to recode printf().                                                                                    |
+| [ft_server        ](https://github.com/spydersy/ft_server) | This is a System Administration subject. An introduction to Docker and  web servers configuration.                                 |
 | [cub3D            ](https://google.com) | The goal will be to make a dynamic view inside a maze(3DGame), in which you'll have to find your way.                              |
-| [libasm           ](https://google.com) | The aim of this project is to get familiar with assembly language.                                                                 |
-| [ft_services      ](https://google.com) | This project is an introduction to cluster management and deployment with Kubernetes. The goal is to  virtualize a network and do "clustering".                                                                                                                                         |
-| [pipex            ](https://google.com) | This project is the discovery in detail and by programming of the UNIX mechanism PIPE '\|'                                         |
-| [minishell        ](https://google.com) | The objective of this project is to create a simple shell like BASH.                                                               |
-| [push_swap        ](https://google.com) | Sorting algorithms project.                                                                                                        |
-| [philosophers     ](https://google.com) | This project is an introduction to Threads/Processes/Mutex.                                                                        |
-| [CPP              ](https://google.com) | CPP-Pool Is an introdation to OOP world.                                                                                           |
-| [ft_containers    ](https://google.com) | This project is an re-implement of C++ Containers.                                                                                 |
-| [webserv          ](https://google.com) | In this project I write my own HTTP server !                                                                                       |
-| [ft_transccendence](https://google.com) | 
+| [libasm           ](https://github.com/spydersy/libasm) | The aim of this project is to get familiar with assembly language.                                                                 |
+| [ft_services      ](https://github.com/spydersy/42Cursus-ft_services) | This project is an introduction to cluster management and deployment with Kubernetes. The goal is to  virtualize a network and do "clustering".                                                                                                                                         |
+| [pipex            ](https://github.com/spydersy/pipex) | This project is the discovery in detail and by programming of the UNIX mechanism PIPE '\|'                                         |
+| [minishell        ](https://github.com/spydersy/42Cursus-minishell) | The objective of this project is to create a simple shell like BASH.                                                               |
+| [push_swap        ](https://github.com/spydersy/push_swap) | Sorting algorithms project.                                                                                                        |
+| [philosophers     ](https://github.com/spydersy/42cursus-philosophers) | This project is an introduction to Threads/Processes/Mutex.                                                                        |
+| [ft_containers    ](https://github.com/spydersy/42cursus-ft_containers) | This project is an re-implement of C++ Containers.                                                                                 |
+| [webserv          ](https://github.com/spydersy/42cursus-webserv) | In this project I write my own HTTP server !                                                                                       |
+| [ft_transccendence](https://github.com/spydersy/42cursus-ft_transcendence) | 
 
 ---
 
@@ -51,4 +53,4 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spydersy&label=Profile%20views%20since%20Aug%2029,%202022&color=0e75b6&style=flat-square" alt="spydersy" /> </p>
+
