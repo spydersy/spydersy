@@ -21,6 +21,14 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=spydersy&count_private=true&show_icons=true&theme=dark)](https://github.com/spydersy)
 
+<h3>Welcome to my Github account where you will find the folowing projects (and more):</h3>  
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spydersy&repo=OnePong&theme=dark)](https://github.com/spydersy/OnePong)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spydersy&repo=42Cursus-ft_containers&theme=dark)](https://github.com/spydersy/42Cursus-ft_containers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spydersy&repo=42Cursus-webserv&theme=dark)](https://github.com/spydersy/42Cursus-webserv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spydersy&repo=42Cursus-Cub3D&theme=dark)](https://github.com/spydersy/42Cursus-Cub3D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spydersy&repo=ft_server&theme=dark)](https://github.com/spydersy/ft_server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spydersy&repo=42Cursus-ft_services&theme=dark)](https://github.com/spydersy/ft_services)
 <h3 align="left">🏆 Github Profile Trophy</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spydersy&theme=onedark&column=7" alt="spydersy" /></a> </p>
 
