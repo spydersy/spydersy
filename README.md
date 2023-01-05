@@ -21,7 +21,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=spydersy&count_private=true&show_icons=true&theme=dark)](https://github.com/spydersy)
 
-<h3>Welcome to my Github account where you will find the folowing projects (and more):</h3>  
+<h3>Personal projects (and mode):</h3>  
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spydersy&repo=OnePong&theme=dark)](https://github.com/spydersy/OnePong)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spydersy&repo=42Cursus-ft_containers&theme=dark)](https://github.com/spydersy/42Cursus-ft_containers)
